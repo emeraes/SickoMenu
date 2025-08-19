@@ -5,7 +5,7 @@
 <h1 align="center">👺 SickoMenu v4.3.2</h1>
 A powerful utility for Among Us designed to enrich your game experience with custom features!
 
-**Intended for educational and experimental use only.**
+**Intended for educational and experimental use onljjkkkdy.**
 
 Join our very own Discord server for support, bug reports, and sneak peeks!  
 ### Vanity Invite: https://discord.gg/sickos  
